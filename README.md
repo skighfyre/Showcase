@@ -1,6 +1,15 @@
 ## Welcome to GitHub Pages
 
 You can play this [Game](http://72.239.179.45/basic)
+  <a href="popupex.html" onclick="return popitup('popupex.html')"
+        >http://72.239.179.45/basic</a>
+<script>
+function popitup(url) {
+        newwindow=window.open(url,'name','height=200,width=150');
+        if (window.focus) {newwindow.focus()}
+        return false;
+    }
+</script>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
