@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/skighfyre/Showcase/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can play this [Game](https://http://72.239.179.45/basic)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
