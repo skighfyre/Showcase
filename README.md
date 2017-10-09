@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can play this [Game](https://http://72.239.179.45/basic)
+You can play this [Game](http://72.239.179.45/basic)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
